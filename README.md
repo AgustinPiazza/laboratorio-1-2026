@@ -1,8 +1,8 @@
 # Sistema de Gestión de Artefactos Mágicos de Instanciaveria
 
-* Actividad: Laboratorio 1 - POO 2025 (11[02]76)
+* Actividad: Laboratorio 1 - POO 2026 (11[02]76)
 * Tipo de trabajo: Laboratorio en clase
-* Fecha: 26-08-2025
+* Fecha: 01-09-2026
 * Duración: de 18 a 21.
 * Entregable: Si.
 
