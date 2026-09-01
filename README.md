@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Agustin P (195239) - agu...@gmail.com
+- Juan Pablo Q (201133) - jua...@gmail.com
 
 # Contexto / Escenario
 
